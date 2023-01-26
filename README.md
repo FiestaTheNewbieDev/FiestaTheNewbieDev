@@ -7,6 +7,7 @@
  ## :computer: About my code
  * Java.
 
+<!---
 ## String[] identities
 [Click here because it's totally useless]()
 * FiestaTheNewbieDev
@@ -17,3 +18,4 @@
 * Clément (my first name)
 * Clémenthe à l'eau
 * Clémentholé
+-->
