@@ -1,5 +1,7 @@
 <center><h1>FiestaTheNewbieDev</h1></center>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+
 ## :scroll: About Me
  * Computer Sciences student
  * Guy over talented to making everything :muscle:
