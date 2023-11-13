@@ -5,14 +5,15 @@
 </div>
 
 <div align="center">
+ <a href="https://www.discordapp.com/users/277877831302643713"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"></a>
  <a href="https://www.linkedin.com/in/clement-fossorier"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </div>
 
-## About me
+## 😊 About me
 
 I am a french computer sciences student.
 
-## Languages and Tools
+## 🛠️ Languages and Tools
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -41,7 +42,11 @@ I am a french computer sciences student.
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
 
-## My Stats
+## 📊 My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FiestaTheNewbieDev)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FiestaTheNewbieDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🏆 Github Trophies
+
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=FiestaTheNewbieDev)](https://github.com/ryo-ma/github-profile-trophy)
