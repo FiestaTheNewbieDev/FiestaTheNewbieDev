@@ -53,9 +53,3 @@ I am a french computer sciences student.
 ## 🏆 Github Trophies
 
 [![Github Trophies](https://github-profile-trophy.vercel.app/?username=FiestaTheNewbieDev)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🤩 My Little Pride
-
-[![DaPostork](https://github-readme-stats.vercel.app/api/pin/?username=FiestaTheNewbieDev&repo=da-postork)](https://github.com/FiestaTheNewbieDev/da-postork)
-[![Discord AI Helper](https://github-readme-stats.vercel.app/api/pin/?username=FiestaTheNewbieDev&repo=discord-ai-helper-old)](https://github.com/FiestaTheNewbieDev/discord-ai-helper-old)
-[![Dark Millennium Mod](https://github-readme-stats.vercel.app/api/pin/?username=FiestaTheNewbieDev&repo=dark-millennium-mod)](https://github.com/FiestaTheNewbieDev/dark-millennium-mod)
