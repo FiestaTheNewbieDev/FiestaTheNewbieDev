@@ -51,5 +51,11 @@ I am a french computer sciences student.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FiestaTheNewbieDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 Github Trophies
-
-[![Github Trophies](https://github-profile-trophy.vercel.app/?username=FiestaTheNewbieDev)](https://github.com/ryo-ma/github-profile-trophy)
+[![Commits Trophy](https://github-profile-trophy.vercel.app/?username=FiestaTheNewbieDev&title=Commits&column=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Repositories Trophy](https://github-profile-trophy.vercel.app/?username=FiestaTheNewbieDev&title=Repositories&column=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Experience Trophy](https://github-profile-trophy.vercel.app/?username=FiestaTheNewbieDev&title=Experience&column=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Stars Trophy](https://github-profile-trophy.vercel.app/?username=FiestaTheNewbieDev&title=Stars&column=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Followers Trophy](https://github-profile-trophy.vercel.app/?username=FiestaTheNewbieDev&title=Followers&column=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![PullRequest Trophy](https://github-profile-trophy.vercel.app/?username=FiestaTheNewbieDev&title=PullRequest&column=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Issues Trophy](https://github-profile-trophy.vercel.app/?username=FiestaTheNewbieDev&title=Issues&column=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Reviews Trophy](https://github-profile-trophy.vercel.app/?username=FiestaTheNewbieDev&title=Reviews&column=1)](https://github.com/ryo-ma/github-profile-trophy)
