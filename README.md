@@ -5,9 +5,9 @@
 </div>
 
 <div align="center">
- <a href="https://www.discordapp.com/users/277877831302643713"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"></a>
- <a href="https://www.linkedin.com/in/clement-fossorier"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
- <a href="https://www.codingame.com/profile/3899491414c91f82ed50873ef35041ae3693295"><img src="https://img.shields.io/badge/CodinGame-yellow?style=for-the-badge&logoColor=white" alt="CodinGame Badge"></a>
+ <a href="https://www.discordapp.com/users/277877831302643713" target="_blank"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"></a>
+ <a href="https://www.linkedin.com/in/clement-fossorier" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+ <a href="https://www.codingame.com/profile/3899491414c91f82ed50873ef35041ae3693295" target="_blank"><img src="https://img.shields.io/badge/CodinGame-yellow?style=for-the-badge&logoColor=white" alt="CodinGame Badge"></a>
 </div>
 
 ## 😊 About me
