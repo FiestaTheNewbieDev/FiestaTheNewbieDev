@@ -12,7 +12,7 @@
 
 ## 😊 About me
 
-My name is **Clément Fossorier** and I'm a **french computer sciences student**.
+My name is **Clément Fossorier** and I'm a **French Computer Science Student**.
 
 ## 🛠️ Languages and Tools
 
