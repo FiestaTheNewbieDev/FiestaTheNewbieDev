@@ -48,7 +48,6 @@ My name is **Clément Fossorier** and I'm a **French Computer Science Student**.
 
 ## 📊 My Stats
 
-[![GitHub Streak](https://https://github-readme-streak-stats-eight.vercel.app/demo/?user=FiestaTheNewbieDev)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FiestaTheNewbieDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 Github Trophies
